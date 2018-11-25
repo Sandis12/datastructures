@@ -17,6 +17,10 @@ public class FirstClass {
         this.field = field;
 
         String bbb = "Testeejam";
+        String bbb2 = "Testeejam";
+        String bbb3 = "Testeejam";
+        String bbb4 = "Testeejam";
+        String bbb5 = "Testeejam";
     }
 
     public int getX() {
