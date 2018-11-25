@@ -15,5 +15,8 @@ public class FirstClass {
 
     public void setField(String field) {
         this.field = field;
+
+        String bbb = "Testeejam";
+
     }
 }
